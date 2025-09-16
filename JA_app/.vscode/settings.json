@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "C:/Users/reino/AppData/Local/pypoetry/Cache/virtualenvs/ja-app-hXJYGFi--py3.12",
+    "python.terminal.activateEnvironment": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.formatOnSave": true,
+    },
+    "python.analysis.extraPaths": [
+        "./job_analytic"
+    ]
+}
